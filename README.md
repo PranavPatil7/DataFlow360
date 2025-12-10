@@ -1,4 +1,6 @@
-# Redfin Analytics end-to-end ETL data pipeline by Airflow on an EC2 instance
+# Data Flow 360 – Data Orchestration using Airflow on AWS EC2                                               
+
+
 This is an end-to-end AWS Cloud ETL project. This data pipeline orchestration uses Apache Airflow on AWS EC2 as well as Snowpipe. 
 It demonstrates how to build ETL data pipeline that would perform data transformation using Python on Apache Airflow as well as automatic data ingestion into a Snowflake data warehouse via Snowpipe. 
 The data would then be visualized using Microsoft Power BI.
